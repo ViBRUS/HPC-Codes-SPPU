@@ -32,7 +32,7 @@ Design and implement **parallel algorithm** utilizing all resources available. F
 ------------
 
 
- # :fa-user: Codes By 
+ # :blush: Codes By 
 > Vishal R. Sonar
       PCETs Pimpri Chinchwad College of Engineering and Research, Pune
 
