@@ -1,5 +1,5 @@
 # HPC-Codes-SPPU
-SPPU practicals codes
+SPPU Practical Codes of subject **High Performance Computing**. [*BE-comp 7th Semester*]
 
 
 ## Assignment 1:
@@ -27,3 +27,12 @@ Design and implement **parallel algorithm** utilizing all resources available. F
 1. Binary Search for Sorted Array
 2. Depth-First Search (tree or an undirected graph ) 
 3. Breadth-First Search ( tree or an undirected graph) 
+
+
+------------
+
+
+ # :fa-user: Codes By 
+> Vishal R. Sonar
+      PCETs Pimpri Chinchwad College of Engineering and Research, Pune
+
